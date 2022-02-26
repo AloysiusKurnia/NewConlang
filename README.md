@@ -1,3 +1,3 @@
-# Stuff stuff stuff
+# The new conlang
 
-:D
+No name tho

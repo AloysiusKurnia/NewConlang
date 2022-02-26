@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div style="padding: 0 50px; font-family: sans-serif">
+        <p>Type stuffs here!</p>
+        <input type="text" style="width: 100%; box-sizing: border-box;" id="inp">
+        <p>Here's the formatted stuff</p>
+        <p id="outp"></p>
+    </div>
+
+    <script>
+        document.getElementById('inp').addEventListener("input", (e) => {
+            document.getElementById('outp').innerText = e.target.value
+                .replace('ue', 'ü')
+                .replace('oe', 'ö')
+                .replace('u\'e', 'ue')
+                .replace('o\'e', 'oe');
+        })
+    </script>
+</body>
+
+</html>
