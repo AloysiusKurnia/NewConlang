@@ -2,5 +2,5 @@
 
 No name tho
 
-- [Phonology](phonology)
-- [Grammar](grammar)
+- [Phonology](./phonology.md)
+- [Grammar](./grammar.md)

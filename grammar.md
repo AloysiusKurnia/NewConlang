@@ -2,7 +2,7 @@
 Grammar
 =======
 
-[Back](README)
+[Back](./README.md)
 
 ## Syntax
 

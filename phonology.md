@@ -1,7 +1,7 @@
 Phonology
 =========
 
-[Back](README)
+[Back](./README.md)
 
 ## Inventories
 
