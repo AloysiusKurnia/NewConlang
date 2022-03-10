@@ -21,6 +21,8 @@ Phonology
 | Mid   | e, ö/oe | o    |
 | Back  | a       |      |
 
+Dipthtongs: ai, au, ei.
+
 ## Phonotactics
 
 - It's CVCC.

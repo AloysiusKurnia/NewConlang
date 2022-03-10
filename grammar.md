@@ -18,19 +18,22 @@ Grammar
 
 The verb system has some affixes:
 
+Voice and alignment
+- `u-`: intransitive active (A does V)
+- `tun-` intransitive passive (A is done V)
+- `Ø-` transitive active (A does V to B)
+- `tan-` transitive passive (A is done V by B)
+- `sür-` reflective (A does V to itself)
+- `pat-` causative (A lets B does V to C)
+
 Mood
-- `i(l)-`: want to
-- `ru-`: should
+- `i(l)-`: volitive (want to)
+- `ru-`: imperative (should)
 
 Tense
-- `Ø`: present
-- `(vowel shift)`: past
-- `-ća`: future
+- `-i`: present
+- `-e`: past
+- `-ića`: future
 
-Voice and alignment
-- `Ø`: intransitive active (A does V)
-- `tin-` intransitive passive (A is done V)
-- `u-` transitive active (A does V to B)
-- `tun-` transitive passive (A is done V by B)
-- `sür-` reflective (A does V to itself)
-- `pat-` letting someone do it (A lets B does V to C)
+## Adjectives
+
