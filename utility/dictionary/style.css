@@ -1,0 +1,34 @@
+.container {
+    padding: 0 50px;
+    font-family: sans-serif;
+}
+
+input[type=text] {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table {
+    border: 1px solid black;
+}
+
+#output-table>tr {
+    border-top: 1px solid black;
+}
+
+#output-table>.explanation {
+    border-top: none;
+}
+
+#output-table>tr:hover {
+    background-color: lavender;
+}
+
+td, th {
+    padding: 5px;
+}

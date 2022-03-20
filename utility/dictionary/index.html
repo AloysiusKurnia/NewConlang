@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <p>Find words</p>
+        <input type="text">
+        <input type="radio" id="html" name="transl_direction" value="to_en" checked>
+        <label for="html">English to Conlang</label><br>
+        <input type="radio" id="css" name="transl_direction" value="to_con">
+        <label for="css">Conlang to English</label><br>
+        <br>
+        <p>Click the entry to get some additional info.</p>
+        <table id="output-table">
+            <tr>
+                <th>Word</th>
+                <th>Translation</th>
+                <th>Type</th>
+            </tr>
+        </table>
+    </div>
+
+    <script src="wordlist.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>

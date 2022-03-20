@@ -13,7 +13,7 @@ Grammar
 - This language has no case distinction.
 - This language has two noun classes: light and dark.
 - Two plural markers, `-m` for definite plural, `-rt` for indefinite plural.
-- Has `ćo-` as participle linker, meaning the verb before this noun serves as an attribute of the noun.
+- Has `ćo-` as participle linker, meaning the verb/noun before this noun serves as an attribute of the noun.
 
 ## Verbs
 
@@ -27,7 +27,7 @@ Voice and alignment
 - `sür-` reflective (A does V to itself)
 - `pat-` causative (A lets B does V to C)
 
-Mood
+Moo
 - `i(l)-`: volitive (want to)
 - `ru-`: imperative (should)
 
